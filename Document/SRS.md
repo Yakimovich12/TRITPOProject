@@ -4,7 +4,7 @@
 
 1. [Введение](https://github.com/Yakimovich12/TRITPOProject/blob/main/Document/SRS.md#1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)  
 1.1 [Назначение](https://github.com/Yakimovich12/TRITPOProject/blob/main/Document/SRS.md#11-%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)  
-1.2 [Бизнес требования]()  
+1.2 [Бизнес требования](https://github.com/Yakimovich12/TRITPOProject/blob/main/Document/SRS.md#12-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)  
 1.2.1 [Границы проекта]()  
 1.3 [Аналоги]()  
 
